@@ -18,7 +18,7 @@ This library allows you to embed Recursive Labs' Realtime screenshare and Replay
   s.homepage         = 'https://developer.recursivelabs.io'
   s.license          = { :type => 'Commercial', :text => 'Copyright 2017 Recursive Labs. All rights reserved.' }
   s.author           = { 'Alex Otero' => 'aotero@recursivelabs.com' }
-  s.source           = { :git => "git@github.com:ghorbani-m/recursive-labs-ios-sdk.git" }
+  s.source           = { :git => "git@github.com:guardme-development/recursive-labs-ios-sdk.git" }
 
   #s.ios.deployment_target = '13.0'
   
