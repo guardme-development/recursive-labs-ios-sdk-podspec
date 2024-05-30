@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RcrsvSDK'
-  s.version          = '1.1.5'
+  s.version          = '1.1.7'
   s.summary          = 'Recursive Labs Realtime screensh1are and Replay video creation SDK for iOS'
 
   s.description      = <<-DESC
